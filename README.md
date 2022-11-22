@@ -1,6 +1,6 @@
 # EntornosDesarrollo
 
-Author: rafael Madrigal
+Author: Rafael Madrigal
 
 Creación y Modificación de archivos en un repo. (Desde el local al remoto.)
 
@@ -39,3 +39,5 @@ git commit -am "Se sube un nuevo archivo"
 
 4) Se suben los cambios
 git push origin main
+
+FIN DOCUMENTO
