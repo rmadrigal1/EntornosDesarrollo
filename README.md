@@ -28,3 +28,14 @@ git fetch
 4) Actualizamos archivos
 git pull origin main
 
+Añadir archivo al repo. (local a remoto)
+1) Se crea el archivo. Ej: archivo1.txt
+
+2) Se añade al repo.
+git add archivo1.txt
+
+3) Se añade los cambios al tracking
+git commit -am "Se sube un nuevo archivo"
+
+4) Se suben los cambios
+git push origin main
