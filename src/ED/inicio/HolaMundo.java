@@ -6,7 +6,7 @@ public class HolaMundo {
 		System.out.println("COMIENZA EL PROYECTO");
 		System.out.println("Hola Mundo!!!");
 		
-		int numero=2;
+		int numero=3;
 		int numero2=5;
 		
 		System.out.println(numero*numero2);
