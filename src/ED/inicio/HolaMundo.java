@@ -6,9 +6,11 @@ public class HolaMundo {
 		System.out.println("COMIENZA EL PROYECTO");
 		System.out.println("Hola Mundo!!!");
 		
-		int numero=0;
+		int numero=2;
+		int numero2=5;
 		
-		System.out.println(numero);
+		System.out.println(numero*numero2);
+		
 		System.out.println("FIN DEL PROYECTO");
 		
 	}
